@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useLanguage } from "./LanguageContext";
@@ -23,7 +23,20 @@ import { PROFILE_DATA } from "@/lib/data";
 export const Navbar: React.FC = () => {
   const { lang, setLang, t } = useLanguage();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
   const pathname = usePathname();
+
+  useEffect(() => {
+    const handleScroll = () => {
+      if (window.scrollY > 20) {
+        setScrolled(true);
+      } else {
+        setScrolled(false);
+      }
+    };
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
 
   const navLinks = [
     { href: "/", label: { en: "Home", hi: "मुख्य पृष्ठ" }, icon: Home },
@@ -42,9 +55,15 @@ export const Navbar: React.FC = () => {
   };
 
   return (
-    <header className="sticky top-0 z-50 glass-card shadow-2xl border-b border-slate-800">
-      {/* Top Banner - Fixed single line on mobile */}
-      <div className="bg-gradient-to-r from-slate-950 via-emerald-950 to-red-950 text-slate-200 py-1 sm:py-1.5 px-3 sm:px-4 text-[11px] sm:text-xs font-medium border-b border-slate-800">
+    <header className="sticky top-0 z-50 glass-card shadow-2xl border-b border-slate-800 transition-all duration-300">
+      {/* Top Banner - Hides smoothly on scroll/slide */}
+      <div 
+        className={`bg-gradient-to-r from-slate-950 via-emerald-950 to-red-950 text-slate-200 text-[11px] sm:text-xs font-medium border-b border-slate-800 transition-all duration-300 overflow-hidden ${
+          scrolled 
+            ? "max-h-0 py-0 opacity-0 border-none pointer-events-none" 
+            : "max-h-12 py-1 sm:py-1.5 px-3 sm:px-4 opacity-100"
+        }`}
+      >
         <div className="max-w-7xl mx-auto flex items-center justify-between gap-2 overflow-hidden">
           
           {/* Left: Official Badge + Constituency/Location */}
