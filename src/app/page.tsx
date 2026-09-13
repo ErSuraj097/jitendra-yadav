@@ -214,7 +214,7 @@ export default function Home() {
 
         {/* 6. CONSTITUENCY DEVELOPMENT */}
         <SectionCard
-          title={t({ en: "Constituency Ward No. 14 Overview", hi: "वार्ड क्र. 14 जौनपुर - क्षेत्रीय अवलोकन" })}
+          title={t({ en: "Gorakhpur & Barhalganj Constituency Overview", hi: "गोरखपुर एवं बड़हलगंज क्षेत्र - सिंहावलोकन" })}
           subtitle={t({ en: "Balanced development across every sector and village", hi: "प्रत्येक गाँव तक बुनियादी सुविधाओं का विस्तार" })}
           accent="tricolor"
           showBicycle
@@ -223,11 +223,11 @@ export default function Home() {
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <div className="space-y-2">
                 <p className="text-xs uppercase font-extrabold text-amber-400">{t({ en: "District", hi: "जनपद" })}</p>
-                <h4 className="text-2xl font-black">{t({ en: "Jaunpur, Uttar Pradesh", hi: "जौनपुर, उत्तर प्रदेश" })}</h4>
+                <h4 className="text-2xl font-black">{t({ en: "Gorakhpur (PIN 273402)", hi: "गोरखपुर (पिन 273402)" })}</h4>
               </div>
               <div className="space-y-2">
-                <p className="text-xs uppercase font-extrabold text-emerald-400">{t({ en: "Ward", hi: "जिला पंचायत क्षेत्र" })}</p>
-                <h4 className="text-2xl font-black">{t({ en: "Ward No. 14", hi: "वार्ड क्र. 14" })}</h4>
+                <p className="text-xs uppercase font-extrabold text-emerald-400">{t({ en: "Town / Block", hi: "नगर / विकास खंड" })}</p>
+                <h4 className="text-2xl font-black">{t({ en: "Barhalganj", hi: "बड़हलगंज" })}</h4>
               </div>
               <div className="space-y-2">
                 <p className="text-xs uppercase font-extrabold text-samajwadiRed">{t({ en: "Key Sectors", hi: "मुख्य विकास क्षेत्र" })}</p>
@@ -377,7 +377,7 @@ export default function Home() {
         {/* 12. CONTACT / जनसंपर्क */}
         <SectionCard
           title={t({ en: "Contact Office & Jan Sampark", hi: "जनसंपर्क कार्यालय एवं संपर्क सूत्र" })}
-          subtitle={t({ en: "Reach out to Shri Jitendra Kumar Yadav's office in Jaunpur", hi: "कार्यालय का पता, हेल्पलाइन नंबर एवं जनसंपर्क समय" })}
+          subtitle={t({ en: "Reach out to Shri Jitendra Kumar Yadav's office in Barhalganj, Gorakhpur (273402)", hi: "बड़हलगंज, गोरखपुर (273402) कार्यालय का पता, हेल्पलाइन नंबर एवं जनसंपर्क समय" })}
           accent="green"
         >
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6 my-4">

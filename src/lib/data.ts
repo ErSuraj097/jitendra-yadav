@@ -143,22 +143,22 @@ export const PROFILE_DATA: ProfileData = {
     hi: "श्री जितेन्द्र कुमार यादव"
   },
   designation: {
-    en: "District Vice President, Samajwadi Party, Gorakhpur",
-    hi: "जिला उपाध्यक्ष - समाजवादी पार्टी, गोरखपुर"
+    en: "District Vice President & District Panchayat Member, Samajwadi Party, Gorakhpur",
+    hi: "जिला उपाध्यक्ष एवं जिला पंचायत सदस्य - समाजवादी पार्टी, गोरखपुर"
   },
   party: {
     en: "Samajwadi Party",
     hi: "समाजवादी पार्टी"
   },
   location: {
-    en: "Gorakhpur & Barhalganj, Uttar Pradesh",
-    hi: "गोरखपुर एवं बड़हलगंज, उत्तर प्रदेश"
+    en: "Barhalganj, Gorakhpur, Uttar Pradesh - 273402",
+    hi: "बड़हलगंज, गोरखपुर, उत्तर प्रदेश - 273402"
   },
   phone: "+91 99353 96483",
   email: "contact@jitendrayadav.in",
   officeAddress: {
-    en: "Samajwadi Party Office, Barhalganj & Gorakhpur City, Uttar Pradesh",
-    hi: "समाजवादी पार्टी कार्यालय, बड़हलगंज एवं गोरखपुर शहर, उत्तर प्रदेश"
+    en: "Samajwadi Party Office, Barhalganj, District Gorakhpur, Uttar Pradesh - 273402",
+    hi: "समाजवादी पार्टी कार्यालय, बड़हलगंज, जिला गोरखपुर, उत्तर प्रदेश - 273402"
   },
   socials: {
     facebook: "https://facebook.com/share/19Ny5PHAJ2",
@@ -166,8 +166,8 @@ export const PROFILE_DATA: ProfileData = {
     whatsapp: "https://wa.me/919935396483"
   },
   bioShort: {
-    en: "District Vice President - Samajwadi Party Gorakhpur, Former Student Union President - National P.G. College Barhalganj, Digital Creator & Youth Leader dedicated to public welfare, social justice, and youth empowerment.",
-    hi: "जिला उपाध्यक्ष - समाजवादी पार्टी गोरखपुर, पूर्व अध्यक्ष छात्रसंघ - नेशनल पी•जी•कॉलेज बड़हलगंज गोरखपुर। डिजिटल क्रिएटर एवं युवा जननेता, जो सामाजिक न्याय, युवा सशक्तिकरण और जनसेवा को समर्पित हैं।"
+    en: "District Vice President & District Panchayat Member - Samajwadi Party Gorakhpur, Former Student Union President - National P.G. College Barhalganj, Digital Creator & Youth Leader dedicated to public welfare, social justice, and youth empowerment.",
+    hi: "जिला उपाध्यक्ष एवं जिला पंचायत सदस्य - समाजवादी पार्टी गोरखपुर, पूर्व अध्यक्ष छात्रसंघ - नेशनल पी•जी•कॉलेज बड़हलगंज गोरखपुर। डिजिटल क्रिएटर एवं युवा जननेता, जो सामाजिक न्याय, युवा सशक्तिकरण और जनसेवा को समर्पित हैं।"
   },
   bioFull: [
     {

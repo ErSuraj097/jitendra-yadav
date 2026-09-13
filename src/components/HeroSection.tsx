@@ -53,8 +53,8 @@ export const HeroSection: React.FC = () => {
             {/* Subheading / Designation & Constituency */}
             <p className="text-lg sm:text-xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-samajwadiRed via-slate-800 to-deepGreen">
               {t({
-                en: "District Panchayat Member • Ward No. 14, Jaunpur, Uttar Pradesh",
-                hi: "जिला पंचायत सदस्य • वार्ड क्र. 14, जौनपुर, उत्तर प्रदेश"
+                en: "District Vice President & District Panchayat Member • Barhalganj, Gorakhpur, Uttar Pradesh (PIN: 273402)",
+                hi: "जिला उपाध्यक्ष एवं जिला पंचायत सदस्य • बड़हलगंज, गोरखपुर, उत्तर प्रदेश (पिन: 273402)"
               })}
             </p>
 

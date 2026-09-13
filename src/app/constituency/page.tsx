@@ -11,10 +11,10 @@ export default function ConstituencyPage() {
   const { t } = useLanguage();
 
   const villages = [
-    { name: { en: "Ward No. 14 Headquarter", hi: "वार्ड नं. 14 मुख्यालय" }, projects: "45+", population: "12,000+" },
-    { name: { en: "Karanjakala Sector", hi: "करंजाकला सेक्टर" }, projects: "30+", population: "8,500+" },
-    { name: { en: "Siddikpur Sector", hi: "सिद्दीकपुर सेक्टर" }, projects: "28+", population: "9,200+" },
-    { name: { en: "Fatehganj Sector", hi: "फतेहगंज सेक्टर" }, projects: "22+", population: "7,800+" },
+    { name: { en: "Barhalganj Central Sector", hi: "बड़हलगंज सेंट्रल सेक्टर" }, projects: "45+", population: "15,000+" },
+    { name: { en: "National College Area", hi: "नेशनल पी.जी. कॉलेज क्षेत्र" }, projects: "30+", population: "11,500+" },
+    { name: { en: "Sarayu River Front Sector", hi: "सरयू तट क्षेत्र" }, projects: "28+", population: "9,800+" },
+    { name: { en: "Gorakhpur Link Sector", hi: "गोरखपुर लिंक क्षेत्र" }, projects: "25+", population: "10,200+" },
   ];
 
   return (
@@ -31,7 +31,7 @@ export default function ConstituencyPage() {
               {t({ en: "Constituency Development", hi: "क्षेत्रीय विकास एवं पंचायत कार्य" })}
             </span>
             <h1 className="text-3xl sm:text-5xl font-black tracking-tight">
-              {t({ en: "Ward No. 14, Jaunpur Infrastructure", hi: "वार्ड क्र. 14, जौनपुर का समग्र विकास" })}
+              {t({ en: "Barhalganj, Gorakhpur (PIN: 273402) Infrastructure", hi: "बड़हलगंज, गोरखपुर (पिन: 273402) का समग्र विकास" })}
             </h1>
             <p className="text-slate-300 text-sm sm:text-base leading-relaxed">
               {t({ 
