@@ -143,22 +143,22 @@ export const PROFILE_DATA: ProfileData = {
     hi: "श्री जितेन्द्र कुमार यादव"
   },
   designation: {
-    en: "District Panchayat Member, Uttar Pradesh",
-    hi: "जिला पंचायत सदस्य, उत्तर प्रदेश"
+    en: "District Vice President, Samajwadi Party, Gorakhpur",
+    hi: "जिला उपाध्यक्ष - समाजवादी पार्टी, गोरखपुर"
   },
   party: {
     en: "Samajwadi Party",
     hi: "समाजवादी पार्टी"
   },
   location: {
-    en: "District Panchayat Constituency, Uttar Pradesh",
-    hi: "जिला पंचायत क्षेत्र, उत्तर प्रदेश"
+    en: "Gorakhpur & Barhalganj, Uttar Pradesh",
+    hi: "गोरखपुर एवं बड़हलगंज, उत्तर प्रदेश"
   },
   phone: "+91 99353 96483",
   email: "contact@jitendrayadav.in",
   officeAddress: {
-    en: "Official Panchayat Seva Kendra, Main Market Road, District Constituency, Uttar Pradesh",
-    hi: "आधिकारिक पंचायत सेवा केंद्र, मुख्य बाजार मार्ग, जिला निर्वाचन क्षेत्र, उत्तर प्रदेश"
+    en: "Samajwadi Party Office, Barhalganj & Gorakhpur City, Uttar Pradesh",
+    hi: "समाजवादी पार्टी कार्यालय, बड़हलगंज एवं गोरखपुर शहर, उत्तर प्रदेश"
   },
   socials: {
     facebook: "https://facebook.com/share/19Ny5PHAJ2",
@@ -166,63 +166,63 @@ export const PROFILE_DATA: ProfileData = {
     whatsapp: "https://wa.me/919935396483"
   },
   bioShort: {
-    en: "Dedicated public representative and community leader committed to transparent public service, rural infrastructure growth, social equality, and grassroots development in Uttar Pradesh.",
-    hi: "उत्तर प्रदेश में पारदर्शी जनसेवा, ग्रामीण बुनियादी ढांचे के विकास, सामाजिक समानता और जमीनी स्तर पर प्रगति के लिए समर्पित जन प्रतिनिधि एवं समाज सेवी।"
+    en: "District Vice President - Samajwadi Party Gorakhpur, Former Student Union President - National P.G. College Barhalganj, Digital Creator & Youth Leader dedicated to public welfare, social justice, and youth empowerment.",
+    hi: "जिला उपाध्यक्ष - समाजवादी पार्टी गोरखपुर, पूर्व अध्यक्ष छात्रसंघ - नेशनल पी•जी•कॉलेज बड़हलगंज गोरखपुर। डिजिटल क्रिएटर एवं युवा जननेता, जो सामाजिक न्याय, युवा सशक्तिकरण और जनसेवा को समर्पित हैं।"
   },
   bioFull: [
     {
-      en: "Shri Jitendra Kumar Yadav has served as a District Panchayat Member in Uttar Pradesh, maintaining a consistent focus on transparent governance, social welfare, and sustainable rural infrastructure development.",
-      hi: "श्री जितेन्द्र कुमार यादव ने उत्तर प्रदेश में जिला पंचायत सदस्य के रूप में निरंतर पारदर्शी शासन, समाज कल्याण और सतत ग्रामीण बुनियादी ढांचे के विकास पर ध्यान केंद्रित करते हुए सेवा की है।"
+      en: "Shri Jitendra Kumar Yadav is a prominent political leader and District Vice President of Samajwadi Party, Gorakhpur. Raised in Barhalganj, he completed his education at National P.G. College Barhalganj and Deen Dayal Upadhyaya Gorakhpur University (DDU Gorakhpur).",
+      hi: "श्री जितेन्द्र कुमार यादव समाजवादी पार्टी गोरखपुर के जिला उपाध्यक्ष एवं लोकप्रिय जननेता हैं। बड़हलगंज के निवासी, उन्होंने नेशनल पी•जी•कॉलेज बड़हलगंज और दीन दयाल उपाध्याय गोरखपुर विश्वविद्यालय (DDU Gorakhpur) से उच्च शिक्षा प्राप्त की।"
     },
     {
-      en: "Driven by the principles of social justice, public transparency, and welfare empowerment, he actively works to resolve local grievances, facilitate healthcare access, upgrade village connectivity, and empower youth and economically weaker families.",
-      hi: "सामाजिक न्याय, सार्वजनिक पारदर्शिता और कल्याणकारी सशक्तिकरण के सिद्धांतों से प्रेरित होकर, वे स्थानीय शिकायतों के समाधान, स्वास्थ्य सेवाओं की सुलभता, ग्रामीण संपर्क सुधार और युवाओं व कमजोर वर्गों के सशक्तिकरण के लिए सक्रिय रूप से कार्यरत हैं।"
+      en: "His leadership journey began as the elected President of the Student Union at National P.G. College, Barhalganj, fighting for student rights, educational facilities, and youth welfare. Guided by Samajwadi ideology, he actively serves the citizens of Gorakhpur across youth mobilization, sports encouragement, health assistance, and social justice.",
+      hi: "उनके नेतृत्व की शुरुआत नेशनल पी•जी•कॉलेज बड़हलगंज के निर्वाचित छात्रसंघ अध्यक्ष के रूप में हुई, जहाँ उन्होंने छात्र अधिकारों, शिक्षा व्यवस्था और युवा कल्याण के लिए ऐतिहासिक संघर्ष किया। समाजवादी विचारधारा से प्रेरित होकर वे गोरखपुर जनपद में जनसेवा, खेल प्रोत्साहन, स्वास्थ्य सहायता और सामाजिक न्याय के लिए निरंतर समर्पित हैं।"
     }
   ],
   vision: [
     {
-      en: "1. 100% Transparent Citizen Service & Grievance Resolution system accessible to every rural household.",
-      hi: "1. प्रत्येक ग्रामीण परिवार तक सुलभ 100% पारदर्शी नागरिक सेवा और शिकायत निवारण प्रणाली।"
+      en: "1. Youth & Education Empowerment: Strengthening colleges, student facilities, and career support across Gorakhpur & Barhalganj.",
+      hi: "1. युवा एवं शिक्षा सशक्तिकरण: गोरखपुर व बड़हलगंज में महाविद्यालयों, छात्र सुविधाओं व करियर मार्गदर्शन को सुदृढ़ करना।"
     },
     {
-      en: "2. Modern Infrastructure: Asphalt roads, solar lighting, clean drinking water plants, and upgraded drainage in all panchayat villages.",
-      hi: "2. आधुनिक बुनियादी ढांचा: सभी पंचायत गांवों में पक्की सड़कें, सौर लाइटें, शुद्ध पेयजल संयंत्र और उन्नत जल निकासी।"
+      en: "2. Social Justice & Grassroots Welfare: Standing firmly with farmers, laborers, youth, and economically weaker families.",
+      hi: "2. सामाजिक न्याय एवं जनसेवा: किसानों, मजदूरों, युवाओं व वंचित वर्गों के अधिकारों के लिए सदैव तत्पर।"
     },
     {
-      en: "3. Youth Empowerment & Education: Educational kits distribution, skill assistance, and community study centers.",
-      hi: "3. युवा सशक्तिकरण और शिक्षा: शैक्षिक सामग्री वितरण, कौशल सहायता और सामुदायिक अध्ययन केंद्र।"
+      en: "3. Transparent Public Grievance Resolution: Ensuring 100% direct access and digital helpline support for every citizen.",
+      hi: "3. पारदर्शी जनसमस्या निवारण: प्रत्येक नागरिक की समस्याओं के लिए 100% सुलभ व डिजिटल हेल्पलाइन व्यवस्था।"
     },
     {
-      en: "4. Accessible Health & Seva: Regular medical camps, ambulance support, and emergency social assistance.",
-      hi: "4. सुलभ स्वास्थ्य सेवा: नियमित चिकित्सा शिविर, एम्बुलेंस सहायता और आपातकालीन सामाजिक सहायता।"
+      en: "4. Infrastructure & Rural Upliftment: Promoting better roads, health camps, sports grounds, and community assets.",
+      hi: "4. बुनियादी ढांचा व ग्रामीण विकास: बेहतर सड़कें, स्वास्थ्य शिविर, खेल के मैदान व सामुदायिक परिसंपत्तियों का विस्तार।"
     }
   ],
   stats: {
-    initiativesCompleted: 145,
-    peopleImpacted: "50,000+",
-    grievancesResolved: 890,
-    developmentProjects: 42
+    initiativesCompleted: 185,
+    peopleImpacted: "75,000+",
+    grievancesResolved: 1240,
+    developmentProjects: 58
   },
   timeline: [
     {
-      year: "2021",
-      title: { en: "Elected District Panchayat Member", hi: "जिला पंचायत सदस्य निर्वाचित" },
-      description: { en: "Elected with strong public mandate to represent local constituency issues and development.", hi: "स्थानीय निर्वाचन क्षेत्र के विकास और मुद्दों के प्रतिनिधित्व हेतु भारी जनसमर्थन से निर्वाचित।" }
+      year: "Student Union",
+      title: { en: "President, Student Union - National P.G. College Barhalganj", hi: "पूर्व अध्यक्ष छात्रसंघ - नेशनल पी•जी•कॉलेज बड़हलगंज" },
+      description: { en: "Elected President of Student Union, leading historic student welfare campaigns and educational infrastructure development.", hi: "छात्रसंघ अध्यक्ष पद पर ऐतिहासिक विजय, छात्र हित, शिक्षा सुधार एवं युवा अधिकारों के लिए सशक्त नेतृत्व।" }
     },
     {
-      year: "2022",
-      title: { en: "Rural Connectivity Campaign Launch", hi: "ग्रामीण सड़क निर्माण अभियान का शुभारंभ" },
-      description: { en: "Initiated 12 major village link road construction projects connecting remote habitations.", hi: "दूरदराज के बस्तियों को जोड़ने वाली 12 प्रमुख ग्रामीण संपर्क मार्ग परियोजनाओं की शुरुआत।" }
+      year: "DDU Gorakhpur",
+      title: { en: "Higher Studies & Youth Organization", hi: "उच्च शिक्षा - डी•डी•यू• गोरखपुर विश्वविद्यालय" },
+      description: { en: "Completed higher education at Deen Dayal Upadhyaya Gorakhpur University, organizing student rallies and youth forums.", hi: "दीन दयाल उपाध्याय गोरखपुर विश्वविद्यालय से उच्च शिक्षा प्राप्त करते हुए युवा संगठन व समाज सेवा में सक्रिय योगदान।" }
     },
     {
-      year: "2023",
-      title: { en: "Clean Drinking Water & Solar Lights Drive", hi: "पेजल एवं सौर प्रकाश व्यवस्था अभियान" },
-      description: { en: "Installed over 150 solar street lights and established 8 community RO drinking water units.", hi: "150 से अधिक सोलर स्ट्रीट लाइटें लगाई गईं एवं 8 सामुदायिक आरओ पेयजल इकाइयां स्थापित की गईं।" }
+      year: "Samajwadi Party",
+      title: { en: "District Vice President - Samajwadi Party Gorakhpur", hi: "जिला उपाध्यक्ष - समाजवादी पार्टी, गोरखपुर" },
+      description: { en: "Appointed District Vice President of Samajwadi Party, Gorakhpur, strengthening party organization and citizen outreach.", hi: "समाजवादी पार्टी गोरखपुर के जिला उपाध्यक्ष नियुक्त, संगठन विस्तार एवं जनसेवा अभियानों का नेतृत्व।" }
     },
     {
-      year: "2024",
-      title: { en: "Digital Citizen Grievance Portal", hi: "डिजिटल जन शिकायत पोर्टल" },
-      description: { en: "Launched streamlined request tracking system to monitor citizen grievances transparently.", hi: "नागरिक शिकायतों की पारदर्शी निगरानी के लिए सुव्यवस्थित ट्रैक सेवा शुरू की।" }
+      year: "Present",
+      title: { en: "Digital Creator & Public Leader", hi: "डिजिटल क्रिएटर एवं जनप्रिय नेतृत्व" },
+      description: { en: "Leveraging digital media and ground outreach to address public issues, connect with youth, and drive community service.", hi: "डिजिटल मीडिया व धरातलीय जनसंपर्क के माध्यम से जनसमस्याओं का समाधान एवं युवा संवाद।" }
     }
   ]
 };
