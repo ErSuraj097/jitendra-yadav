@@ -43,43 +43,48 @@ export const Navbar: React.FC = () => {
 
   return (
     <header className="sticky top-0 z-50 glass-card shadow-2xl border-b border-slate-800">
-      {/* Top Banner */}
-      <div className="bg-gradient-to-r from-slate-950 via-emerald-950 to-red-950 text-slate-200 py-1.5 px-4 text-xs font-medium border-b border-slate-800">
-        <div className="max-w-7xl mx-auto flex flex-wrap justify-between items-center gap-2">
-          <div className="flex items-center space-x-2">
-            <span className="bg-samajwadi-red text-white px-2.5 py-0.5 rounded text-[10px] uppercase font-black tracking-wider animate-pulse">
-              Official Portal
+      {/* Top Banner - Fixed single line on mobile */}
+      <div className="bg-gradient-to-r from-slate-950 via-emerald-950 to-red-950 text-slate-200 py-1 sm:py-1.5 px-3 sm:px-4 text-[11px] sm:text-xs font-medium border-b border-slate-800">
+        <div className="max-w-7xl mx-auto flex items-center justify-between gap-2 overflow-hidden">
+          
+          {/* Left: Official Badge + Constituency/Location */}
+          <div className="flex items-center space-x-1.5 min-w-0">
+            <span className="bg-samajwadi-red text-white px-2 py-0.5 rounded text-[9px] sm:text-[10px] uppercase font-black tracking-wider shrink-0 animate-pulse">
+              Official
             </span>
-            <span className="font-semibold text-emerald-400">{t(PROFILE_DATA.designation)}</span>
+            <span className="font-bold text-emerald-400 truncate text-[11px] sm:text-xs">
+              {t({ en: "Gorakhpur & Barhalganj (273402)", hi: "गोरखपुर व बड़हलगंज (273402)" })}
+            </span>
           </div>
 
-          <div className="flex items-center space-x-4">
+          {/* Right: Phone & Language */}
+          <div className="flex items-center space-x-2 sm:space-x-4 shrink-0">
             <a 
               href={`tel:${PROFILE_DATA.phone}`} 
-              className="flex items-center hover:text-emerald-400 transition-colors bg-slate-900/80 px-2.5 py-0.5 rounded-full border border-slate-700"
+              className="flex items-center hover:text-emerald-400 transition-colors bg-slate-900/80 px-2 py-0.5 sm:px-2.5 rounded-full border border-slate-700 text-[10px] sm:text-xs"
             >
-              <Phone className="w-3 h-3 mr-1 text-emerald-400" />
+              <Phone className="w-3 h-3 mr-1 text-emerald-400 shrink-0" />
               <span className="font-bold text-slate-200">{PROFILE_DATA.phone}</span>
             </a>
-            <span className="hidden sm:inline text-slate-700">|</span>
             <button 
               onClick={toggleLanguage}
-              className="flex items-center space-x-1.5 bg-emerald-700 hover:bg-emerald-600 text-white px-3 py-0.5 rounded-full text-xs font-bold transition-all shadow-sm btn-shine"
+              className="hidden sm:flex items-center space-x-1.5 bg-emerald-700 hover:bg-emerald-600 text-white px-3 py-0.5 rounded-full text-xs font-bold transition-all shadow-sm"
             >
               <Globe className="w-3.5 h-3.5" />
               <span>{lang === "hi" ? "English" : "हिंदी"}</span>
             </button>
           </div>
+
         </div>
       </div>
 
       {/* Main Navbar */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center h-20">
+        <div className="flex justify-between items-center h-16 sm:h-20">
           
           {/* Logo Brand */}
-          <Link href="/" className="flex items-center space-x-3 group">
-            <div className="w-12 h-12 rounded-full overflow-hidden border-2 border-emerald-500 shadow-lg group-hover:scale-105 transition-transform bg-slate-800 flex items-center justify-center relative">
+          <Link href="/" className="flex items-center space-x-2.5 sm:space-x-3 group min-w-0">
+            <div className="w-10 h-10 sm:w-12 sm:h-12 rounded-full overflow-hidden border-2 border-emerald-500 shadow-lg group-hover:scale-105 transition-transform bg-slate-800 flex items-center justify-center shrink-0">
               <img 
                 src="/jitendra_profile.png" 
                 alt={t(PROFILE_DATA.name)} 
@@ -89,12 +94,12 @@ export const Navbar: React.FC = () => {
                 }}
               />
             </div>
-            <div>
-              <h1 className="text-lg sm:text-xl font-extrabold text-white group-hover:text-emerald-400 transition-colors leading-tight">
+            <div className="min-w-0">
+              <h1 className="text-sm sm:text-xl font-extrabold text-white group-hover:text-emerald-400 transition-colors leading-tight truncate">
                 {t(PROFILE_DATA.name)}
               </h1>
-              <p className="text-xs text-slate-400 font-semibold">
-                <span className="text-samajwadi-red font-bold">{t(PROFILE_DATA.party)}</span> • {t(PROFILE_DATA.designation)}
+              <p className="text-[10px] sm:text-xs text-slate-400 font-semibold truncate max-w-[170px] sm:max-w-none">
+                <span className="text-samajwadi-red font-bold">{t(PROFILE_DATA.party)}</span> • {t({ en: "Gorakhpur", hi: "गोरखपुर" })}
               </p>
             </div>
           </Link>
@@ -180,3 +185,5 @@ export const Navbar: React.FC = () => {
     </header>
   );
 };
+
+export default Navbar;
