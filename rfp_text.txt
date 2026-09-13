@@ -1,0 +1,444 @@
+REQUEST FOR PROPOSAL (RFP)
+Development of a Modern Digital Public Service, Portfolio & Information Portal
+Proposed Profile
+Shri Jitendra Kumar Yadav
+District Panchayat Member, Uttar Pradesh
+Samajwadi Party — Public / Political Profile
+Contact: +91 99353 96483
+Facebook: facebook.com/share/19Ny5PHAJ2
+Instagram: @socialist_jitendrayadav
+Current designation, party affiliation and all public claims must be verified and approved by the client before publication.
+
+Scope Boundary
+This RFP covers the design and development of a public information, transparency, seva-activity, achievement, news and portfolio website. It does not include voter-targeting, political persuasion, demographic targeting, or campaign-manipulation features. Any future modules (see Section 25) must continue to provide factual, approved information only.
+1. Project Title
+Development of a Modern Digital Public Service, Portfolio & Information Portal
+Proposed Profile
+	•	Shri Jitendra Kumar Yadav
+	•	District Panchayat Member, Uttar Pradesh
+	•	Samajwadi Party — Public / Political Profile
+Note: Current designation and political affiliation should be verified and approved by the client before publication.
+2. Project Background
+The objective of this project is to develop a modern, professional and mobile-first official website representing Shri Jitendra Kumar Yadav's public profile, social-service activities, public initiatives, achievements, news, events and photo/video gallery.
+The website will serve as a central digital information platform where citizens and visitors can easily access verified information regarding:
+	•	Public profile and biography
+	•	Current responsibilities
+	•	Public-service initiatives
+	•	Social welfare activities
+	•	Development-related work
+	•	News and updates
+	•	Events and programmes
+	•	Photo & video gallery
+	•	Achievements
+	•	Public contact information
+	•	Important announcements
+The platform should establish a strong and trustworthy digital presence and make publicly available information easier to discover through search engines.
+3. Project Objectives
+Primary Objectives
+	•	Create a professional official digital identity.
+	•	Showcase public-service and community-development activities.
+	•	Maintain a transparent record of important initiatives and achievements.
+	•	Publish verified news and activity updates.
+	•	Provide an organized photo/video gallery.
+	•	Make the website easily accessible on mobile devices.
+	•	Implement SEO so legitimate public information can be easily discovered through Google and other search engines.
+	•	Provide an easy-to-use CMS for regular updates.
+	•	Create a scalable platform that can accommodate future features.
+4. Website Structure
+A. Home
+Hero section containing:
+	•	Professional photograph
+	•	Name
+	•	Designation
+	•	Short introduction
+	•	Public-service highlights
+	•	Latest updates
+	•	Important announcements
+	•	Quick navigation
+Suggested sections:
+About  →  Public Service  →  Initiatives  →  News  →  Gallery  →  Achievements  →  Contact
+5. About / Profile
+Detailed profile page containing:
+	•	Full name
+	•	Biography
+	•	Current designation
+	•	Political/public profile
+	•	Educational background, if approved
+	•	Public responsibilities
+	•	Experience
+	•	Vision and objectives
+	•	Social-service journey
+	•	Important achievements
+A timeline-based profile can make the page more visually engaging.
+6. Public Service & Seva Section
+A dedicated section highlighting documented public-service activities.
+Categories
+	•	Assistance to economically weaker families
+	•	Educational support
+	•	Health-related assistance
+	•	Community programmes
+	•	Emergency assistance
+	•	Social welfare initiatives
+	•	Local development initiatives
+	•	Public grievance/support activities
+	•	Other verified community initiatives
+Each activity can have:
+Activity Title  →  Date  →  Location  →  Description  →  Photos  →  Supporting information
+This creates a structured and transparent record rather than simply posting promotional claims.
+7. Development & Work Portfolio
+A portfolio-style section for publicly shareable work.
+Example structure
+	•	Project / Initiative name
+	•	Location
+	•	Date/period
+	•	Objective
+	•	Work undertaken
+	•	Current status
+	•	Relevant photographs
+	•	Supporting documents, where appropriate
+Possible filters:
+All  →  Development  →  Education  →  Health  →  Community  →  Welfare  →  Other
+8. News & Updates
+A complete news-management system.
+Features
+	•	News listing
+	•	Individual news pages
+	•	Date
+	•	Category
+	•	Featured image
+	•	Gallery
+	•	Search
+	•	Related news
+	•	Social sharing
+	•	SEO-friendly URLs
+Categories
+	•	Public Activities
+	•	Community Programmes
+	•	Development Updates
+	•	Events
+	•	Announcements
+	•	Media Coverage
+Only verified/approved content should be published.
+9. Events & Programmes
+Dedicated event management. Each event can contain:
+	•	Event name
+	•	Date & time
+	•	Venue/location
+	•	Description
+	•	Event photographs
+	•	Video
+	•	Status — Upcoming / Completed
+	•	Related news
+10. Photo Gallery
+Professional gallery system.
+Features
+	•	Album creation
+	•	Event-wise albums
+	•	Date-wise organization
+	•	Categories
+	•	Image optimization
+	•	Lightbox view
+	•	Mobile responsive gallery
+	•	SEO-friendly image metadata
+Example albums
+	•	Republic Day Programme
+	•	Community Service Camp
+	•	Public Meeting
+	•	Development Visit
+	•	Educational Programme
+11. Video Gallery
+Integration with:
+	•	YouTube
+	•	Facebook, where appropriate
+	•	Self-hosted videos, if required
+Features:
+	•	Video categories
+	•	Thumbnail management
+	•	Video description
+	•	Date
+	•	Embedded player
+12. Achievements
+A structured achievement section containing only verified accomplishments.
+Possible format:
+Achievement  →  Year  →  Description  →  Supporting Reference
+This can include:
+	•	Public initiatives
+	•	Community programmes
+	•	Development-related milestones
+	•	Recognitions
+	•	Awards, if applicable
+	•	Major completed activities
+13. Media / Press Coverage
+A dedicated section for legitimate media coverage.
+Features
+	•	Newspaper coverage
+	•	Online media articles
+	•	Interviews
+	•	Press releases
+	•	Video coverage
+	•	Publication date
+	•	Source/reference
+Where third-party media is displayed, the original source should be credited.
+14. Contact & Public Connect
+Contact page containing publicly approved contact information.
+Features
+	•	Office/contact details — +91 99353 96483
+	•	Official email
+	•	Social-media links (Facebook, Instagram)
+	•	Office location/map
+	•	Contact form
+Optional: Public Grievance / Request Form
+Citizens can submit general requests or issues through a structured form. Admin can manage:
+New  →  Under Review  →  In Progress  →  Resolved
+The system should minimize collection of unnecessary personal information.
+15. Google Search & SEO
+This should be a major technical requirement of the project.
+On-Page SEO
+	•	SEO-friendly URLs
+	•	Meta title
+	•	Meta description
+	•	Proper heading hierarchy
+	•	Image ALT tags
+	•	Schema markup
+	•	Internal linking
+	•	XML sitemap
+	•	Robots.txt
+	•	Canonical URLs
+	•	Open Graph metadata
+	•	Breadcrumbs
+Search Engine Integration
+	•	Google Search Console
+	•	Google Analytics, subject to consent/privacy requirements
+	•	Sitemap submission
+	•	Indexing monitoring
+	•	Structured data
+Local/Name Search Presence
+The website should be technically optimized so searches for the person's name, verified designation and publicly documented activities can return the official website prominently where search engines determine it is relevant.
+No guarantee of a particular Google ranking should be made.
+16. Multilingual Support
+Recommended: Hindi + English. Architecture should allow additional Indian languages to be added later.
+Hindi should receive particular attention for:
+	•	Public-service content
+	•	News
+	•	Events
+	•	Biography
+	•	Development information
+17. Admin CMS
+A secure admin dashboard should allow authorized administrators to manage the website without developer intervention.
+Dashboard
+	•	Total news
+	•	Events
+	•	Gallery albums
+	•	Published activities
+	•	Draft content
+	•	Recent updates
+Content Management — Admin can:
+	•	Add/edit/delete news
+	•	Upload photographs
+	•	Create albums
+	•	Add events
+	•	Update profile
+	•	Add achievements
+	•	Manage pages
+	•	Manage SEO metadata
+	•	Manage social links
+Roles
+Super Admin  →  Content Manager  →  Editor
+With role-based permissions and audit logs.
+18. UI/UX Requirements
+The website should have a premium, professional, trustworthy, clean, modern, mobile-first design.
+Responsive — must work properly on:
+Mobile  →  Tablet  →  Laptop  →  Desktop
+Design Elements
+	•	Large professional imagery
+	•	Clean typography
+	•	Hindi-friendly fonts
+	•	Subtle animations
+	•	Timeline components
+	•	Cards
+	•	Gallery layouts
+	•	Statistics where objectively supported
+	•	Accessible navigation
+Avoid excessive promotional elements or unverifiable claims.
+19. Technical Architecture
+Layer
+Recommended Technology
+Frontend
+Next.js / React
+Backend
+FastAPI / Node.js
+Database
+PostgreSQL / MySQL
+Storage
+Object storage + CDN, image compression, WebP/AVIF
+ 
+Frontend benefits: SEO, server-side rendering, performance, scalability, modern UI.
+20. Security Requirements
+	•	HTTPS
+	•	Secure authentication
+	•	RBAC
+	•	Strong password policy
+	•	Admin session management
+	•	Input validation
+	•	SQL injection protection
+	•	XSS protection
+	•	CSRF protection where applicable
+	•	Rate limiting
+	•	File-upload validation
+	•	Malware scanning for uploads
+	•	Automated backups
+	•	Audit logs
+Personal information submitted through forms should be protected and retained only as necessary.
+21. Performance Requirements
+	•	Fast mobile loading
+	•	Optimized images
+	•	Lazy loading
+	•	CDN
+	•	Browser caching
+	•	Server-side rendering
+	•	Core Web Vitals optimization
+Recommended target: 90+ Lighthouse performance score where realistically achievable for representative pages.
+22. Analytics & Reporting
+Admin dashboard can provide aggregated website statistics such as:
+	•	Visitors
+	•	Page views
+	•	Popular pages
+	•	News engagement
+	•	Gallery views
+	•	Traffic sources
+	•	Device distribution
+Analytics should be configured with appropriate privacy/consent controls.
+23. Social Media Integration
+Official/verified social profiles to be linked from the website:
+	•	Facebook — facebook.com/share/19Ny5PHAJ2
+	•	Instagram — @socialist_jitendrayadav
+	•	YouTube (if available)
+	•	X (if available)
+	•	Other officially maintained channels
+The website should remain the primary source of structured information, rather than relying exclusively on social-media platforms.
+24. Recommended Homepage Flow
+Header  →  Hero/Profile  →  About  →  Public Service Highlights
+Development & Work Portfolio  →  Latest News  →  Events
+Photo & Video Gallery  →  Achievements  →  Media Coverage  →  Public Contact  →  Footer
+25. Deliverables
+	•	UI/UX design
+	•	Responsive website
+	•	Frontend development
+	•	Backend/API development
+	•	CMS/Admin dashboard
+	•	Database
+	•	Gallery management
+	•	News management
+	•	Event management
+	•	SEO implementation
+	•	Google Search Console setup assistance
+	•	Analytics setup
+	•	Security implementation
+	•	Performance optimization
+	•	Deployment
+	•	SSL configuration
+	•	Backup mechanism
+	•	Admin training
+	•	Technical documentation
+	•	Post-launch support
+26. Future Scope
+Architecture should support future modules such as:
+	•	AI-powered website search
+	•	Multilingual AI assistant
+	•	Voice-based information assistant
+	•	Public document repository
+	•	Development-work map
+	•	Interactive timeline
+	•	Digital newsletter
+	•	Event registration
+	•	Public feedback system
+	•	WhatsApp information integration, subject to applicable platform rules
+	•	Mobile application
+Important: Any future AI module should provide factual, approved information and avoid automated political persuasion or voter profiling.
+27. Suggested Technology Stack
+Layer
+Recommended Technology
+Frontend
+Next.js / React
+UI
+Tailwind CSS
+Backend
+FastAPI
+Database
+PostgreSQL
+CMS
+Custom Admin CMS
+Storage
+S3-compatible Object Storage
+CDN
+Cloudflare / CDN
+Deployment
+AWS / Azure / Indian cloud / VPS
+SEO
+Next.js Metadata + Schema
+Analytics
+Google Analytics / Search Console
+Authentication
+JWT / Secure Session
+Monitoring
+Server & Application Monitoring
+28. Project Phases
+Phase 1 — Requirement & Planning
+	•	Requirement gathering
+	•	Content structure
+	•	Sitemap
+	•	Technical architecture
+Phase 2 — UI/UX
+	•	Homepage
+	•	Inner pages
+	•	Mobile design
+	•	Gallery
+	•	News
+	•	Admin dashboard
+Phase 3 — Development
+	•	Frontend
+	•	Backend
+	•	CMS
+	•	Database
+	•	APIs
+Phase 4 — Content & SEO
+	•	Initial content migration
+	•	Image optimization
+	•	SEO metadata
+	•	Sitemap
+	•	Schema
+Phase 5 — Testing
+	•	Functional testing
+	•	Mobile testing
+	•	Security testing
+	•	Performance testing
+	•	SEO validation
+Phase 6 — Deployment
+	•	Production deployment
+	•	Domain/SSL
+	•	Search Console
+	•	Analytics
+	•	Backup
+Phase 7 — Maintenance
+	•	Security updates
+	•	Content support
+	•	Bug fixes
+	•	Performance monitoring
+29. Expected Outcome
+The final platform should function as an official, professional and trustworthy digital information hub for Shri Jitendra Kumar Yadav, bringing together his public profile, verified public-service activities, development portfolio, news, events, media coverage and gallery in one easily accessible platform.
+The website should strengthen digital discoverability, transparency and accessibility of public information, while providing the administration with a reliable system for continuously publishing verified updates.
+30. Important Client Inputs Required
+Before development begins, the client should provide:
+	•	Final approved name/designation
+	•	Official biography
+	•	Approved photographs
+	•	Public-service activity information
+	•	Development/work details
+	•	News/media material
+	•	Gallery photographs/videos
+	•	Official social-media links
+	•	Official contact details — +91 99353 96483
+	•	Domain preference
+	•	Logo/branding, if available
+	•	Content approval authority
+— End of Document —
